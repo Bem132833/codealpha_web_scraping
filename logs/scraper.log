@@ -1,0 +1,144 @@
+18:34:34 | INFO | Determining total number of catalogue pages...
+18:34:38 | INFO | Found 50 catalogue pages to crawl.
+18:34:41 | INFO | Page 1/50: found 20 books
+18:34:44 | INFO | Page 2/50: found 20 books
+18:34:47 | INFO | Page 3/50: found 20 books
+18:34:50 | INFO | Page 4/50: found 20 books
+18:34:53 | INFO | Page 5/50: found 20 books
+18:34:55 | INFO | Page 6/50: found 20 books
+18:34:58 | INFO | Page 7/50: found 20 books
+18:35:00 | INFO | Page 8/50: found 20 books
+18:35:03 | INFO | Page 9/50: found 20 books
+18:35:06 | INFO | Page 10/50: found 20 books
+18:35:08 | INFO | Page 11/50: found 20 books
+18:35:11 | INFO | Page 12/50: found 20 books
+18:35:13 | INFO | Page 13/50: found 20 books
+18:35:16 | INFO | Page 14/50: found 20 books
+18:35:19 | INFO | Page 15/50: found 20 books
+18:35:21 | INFO | Page 16/50: found 20 books
+18:35:24 | INFO | Page 17/50: found 20 books
+18:35:26 | INFO | Page 18/50: found 20 books
+18:35:29 | INFO | Page 19/50: found 20 books
+18:35:31 | INFO | Page 20/50: found 20 books
+18:35:34 | INFO | Page 21/50: found 20 books
+18:35:37 | INFO | Page 22/50: found 20 books
+18:35:40 | INFO | Page 23/50: found 20 books
+18:35:43 | INFO | Page 24/50: found 20 books
+18:35:45 | INFO | Page 25/50: found 20 books
+18:35:48 | INFO | Page 26/50: found 20 books
+18:35:50 | INFO | Page 27/50: found 20 books
+18:35:53 | INFO | Page 28/50: found 20 books
+18:35:56 | INFO | Page 29/50: found 20 books
+18:35:59 | INFO | Page 30/50: found 20 books
+18:36:01 | INFO | Page 31/50: found 20 books
+18:36:04 | INFO | Page 32/50: found 20 books
+18:36:07 | INFO | Page 33/50: found 20 books
+18:36:09 | INFO | Page 34/50: found 20 books
+18:36:12 | INFO | Page 35/50: found 20 books
+18:36:15 | INFO | Page 36/50: found 20 books
+18:36:17 | INFO | Page 37/50: found 20 books
+18:36:20 | INFO | Page 38/50: found 20 books
+18:36:22 | INFO | Page 39/50: found 20 books
+18:36:24 | INFO | Page 40/50: found 20 books
+18:36:27 | INFO | Page 41/50: found 20 books
+18:36:29 | INFO | Page 42/50: found 20 books
+18:36:32 | INFO | Page 43/50: found 20 books
+18:36:34 | INFO | Page 44/50: found 20 books
+18:36:37 | INFO | Page 45/50: found 20 books
+18:36:40 | INFO | Page 46/50: found 20 books
+18:36:42 | INFO | Page 47/50: found 20 books
+18:36:45 | INFO | Page 48/50: found 20 books
+18:36:47 | INFO | Page 49/50: found 20 books
+18:36:50 | INFO | Page 50/50: found 20 books
+18:36:50 | INFO | Total book links collected: 1000
+18:38:54 | INFO | Scraped 50/1000 books
+18:40:59 | INFO | Scraped 100/1000 books
+18:42:58 | INFO | Scraped 150/1000 books
+18:45:00 | INFO | Scraped 200/1000 books
+18:47:01 | INFO | Scraped 250/1000 books
+18:49:03 | INFO | Scraped 300/1000 books
+18:51:06 | INFO | Scraped 350/1000 books
+18:53:03 | INFO | Scraped 400/1000 books
+18:55:02 | INFO | Scraped 450/1000 books
+18:57:02 | INFO | Scraped 500/1000 books
+18:59:10 | INFO | Scraped 550/1000 books
+19:01:14 | INFO | Scraped 600/1000 books
+19:01:32 | WARNING | Attempt 1/3 failed for https://books.toscrape.com/catalogue/the-crossover_398/index.html: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+19:04:10 | INFO | Scraped 650/1000 books
+19:08:29 | INFO | Determining total number of catalogue pages...
+19:08:32 | INFO | Found 50 catalogue pages to crawl.
+19:08:35 | INFO | Page 1/50: found 20 books
+19:08:37 | INFO | Page 2/50: found 20 books
+19:08:40 | INFO | Page 3/50: found 20 books
+19:08:42 | INFO | Page 4/50: found 20 books
+19:08:45 | INFO | Page 5/50: found 20 books
+19:08:48 | INFO | Page 6/50: found 20 books
+19:08:51 | INFO | Page 7/50: found 20 books
+19:08:54 | INFO | Page 8/50: found 20 books
+19:08:56 | INFO | Page 9/50: found 20 books
+19:08:58 | INFO | Page 10/50: found 20 books
+19:09:01 | INFO | Page 11/50: found 20 books
+19:09:04 | INFO | Page 12/50: found 20 books
+19:09:06 | INFO | Page 13/50: found 20 books
+19:09:09 | INFO | Page 14/50: found 20 books
+19:09:11 | INFO | Page 15/50: found 20 books
+19:09:13 | INFO | Page 16/50: found 20 books
+19:09:16 | INFO | Page 17/50: found 20 books
+19:09:19 | INFO | Page 18/50: found 20 books
+19:09:21 | INFO | Page 19/50: found 20 books
+19:09:24 | INFO | Page 20/50: found 20 books
+19:09:27 | INFO | Page 21/50: found 20 books
+19:09:30 | INFO | Page 22/50: found 20 books
+19:09:33 | INFO | Page 23/50: found 20 books
+19:09:36 | INFO | Page 24/50: found 20 books
+19:09:39 | INFO | Page 25/50: found 20 books
+19:09:42 | INFO | Page 26/50: found 20 books
+19:09:44 | INFO | Page 27/50: found 20 books
+19:09:47 | INFO | Page 28/50: found 20 books
+19:09:50 | INFO | Page 29/50: found 20 books
+19:09:52 | INFO | Page 30/50: found 20 books
+19:09:55 | INFO | Page 31/50: found 20 books
+19:09:57 | INFO | Page 32/50: found 20 books
+19:10:00 | INFO | Page 33/50: found 20 books
+19:10:04 | INFO | Page 34/50: found 20 books
+19:10:06 | INFO | Page 35/50: found 20 books
+19:10:09 | INFO | Page 36/50: found 20 books
+19:10:12 | INFO | Page 37/50: found 20 books
+19:10:14 | INFO | Page 38/50: found 20 books
+19:10:18 | INFO | Page 39/50: found 20 books
+19:10:21 | INFO | Page 40/50: found 20 books
+19:10:24 | INFO | Page 41/50: found 20 books
+19:10:27 | INFO | Page 42/50: found 20 books
+19:10:30 | INFO | Page 43/50: found 20 books
+19:10:32 | INFO | Page 44/50: found 20 books
+19:10:35 | INFO | Page 45/50: found 20 books
+19:10:38 | INFO | Page 46/50: found 20 books
+19:10:40 | INFO | Page 47/50: found 20 books
+19:10:43 | INFO | Page 48/50: found 20 books
+19:10:45 | INFO | Page 49/50: found 20 books
+19:10:49 | INFO | Page 50/50: found 20 books
+19:10:49 | INFO | Total book links collected: 1000
+19:12:50 | INFO | Scraped 50/1000 books
+19:14:48 | INFO | Scraped 100/1000 books
+19:16:57 | INFO | Scraped 150/1000 books
+19:19:03 | INFO | Scraped 200/1000 books
+19:21:28 | INFO | Scraped 250/1000 books
+19:23:35 | INFO | Scraped 300/1000 books
+19:26:02 | INFO | Scraped 350/1000 books
+19:28:19 | INFO | Scraped 400/1000 books
+19:30:29 | INFO | Scraped 450/1000 books
+19:32:50 | INFO | Scraped 500/1000 books
+19:35:09 | INFO | Scraped 550/1000 books
+19:37:19 | INFO | Scraped 600/1000 books
+19:39:26 | INFO | Scraped 650/1000 books
+19:41:45 | INFO | Scraped 700/1000 books
+19:44:01 | INFO | Scraped 750/1000 books
+19:46:09 | INFO | Scraped 800/1000 books
+19:48:22 | INFO | Scraped 850/1000 books
+19:50:30 | INFO | Scraped 900/1000 books
+19:52:36 | INFO | Scraped 950/1000 books
+19:54:47 | INFO | Scraped 1000/1000 books
+19:54:47 | INFO | Saved 1000 rows to C:\Users\bemig\codealpha_web_scraping\data\books_raw.csv
+19:54:47 | INFO | Saved 1000 rows to C:\Users\bemig\codealpha_web_scraping\data\books.db
+19:54:47 | INFO | Saved 1000 cleaned rows to C:\Users\bemig\codealpha_web_scraping\data\books_clean.csv (0 rows dropped/deduplicated)
+19:54:47 | INFO | Done.
