@@ -142,3 +142,5 @@
 19:54:47 | INFO | Saved 1000 rows to C:\Users\bemig\codealpha_web_scraping\data\books.db
 19:54:47 | INFO | Saved 1000 cleaned rows to C:\Users\bemig\codealpha_web_scraping\data\books_clean.csv (0 rows dropped/deduplicated)
 19:54:47 | INFO | Done.
+12:18:31 | INFO | Loaded 1000 cleaned books for charting.
+12:18:35 | INFO | Charts saved to C:\Users\bemig\codealpha_web_scraping\charts/
